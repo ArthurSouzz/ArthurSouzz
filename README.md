@@ -1,4 +1,6 @@
-## Arthur Souza
+
+
+##### Arthur Souza
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thursouz_/)
 
 
@@ -14,10 +16,13 @@
 #### DataBase
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
+<div>
 
 <img src="https://raw.githubusercontent.com/ArthurSouzz/ArthurSouzz/output/snake.svg" alt="Snake animation" />
 
 ###
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 <!--
 **ArthurSouzz/ArthurSouzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
