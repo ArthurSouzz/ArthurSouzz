@@ -7,6 +7,12 @@
 ## Meus Conhecimentos
 
 ###
+<table align="center">
+  <tr>
+    <td><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArthurSouzz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></td>
+    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArthurSouzz&layout=compact&theme=tokyonight"/></td>
+  </tr>
+</table>
 
 #### Skills
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
